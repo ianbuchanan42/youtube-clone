@@ -1,2 +1,2 @@
 # youtube-clone
-Simple YouTube clone base off Neatcode.io course
+Simple YouTube clone based off Neatcode.io course
